@@ -1,4 +1,4 @@
-package main.java.search_algs;
+package search_algs;
 
 public class BinarySearch {
 }

@@ -1,4 +1,4 @@
-package main.java.union_find;
+package union_find;
 
 public class QuickFindUF {
 

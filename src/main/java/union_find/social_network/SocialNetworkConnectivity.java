@@ -1,4 +1,4 @@
-package main.java.union_find.social_network;
+package union_find.social_network;
 
 import main.java.union_find.WeightedQuickUFWithPathCompression;
 

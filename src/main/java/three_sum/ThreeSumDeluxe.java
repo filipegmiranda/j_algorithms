@@ -1,4 +1,4 @@
-package main.java.three_some;
+package three_sum;
 
 public class ThreeSumDeluxe {
 }
