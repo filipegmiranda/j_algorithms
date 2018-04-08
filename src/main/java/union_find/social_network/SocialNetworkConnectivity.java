@@ -1,6 +1,6 @@
 package union_find.social_network;
 
-import main.java.union_find.WeightedQuickUFWithPathCompression;
+import union_find.WeightedQuickUFWithPathCompression;
 
 public class SocialNetworkConnectivity {
 
